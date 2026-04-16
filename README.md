@@ -22,7 +22,7 @@ A working portfolio for operators and technical teams. Each repo documents real 
 |------|------------|--------|
 | [ops-templates](https://github.com/srush3003/ops-templates) | Reusable templates for integration management, SOPs, workflow design, and client onboarding | In progress |
 | [ops-playbooks](https://github.com/srush3003/ops-playbooks) | Step-by-step guides for AI workflow implementation, tool migrations, and process rollouts | In progress |
-| ops-frameworks | Diagnostic and evaluation frameworks for AI readiness, ops audits, and system assessments | In progress |
+| [ops-frameworks](https://github.com/srush3003/ops-frameworks) | Diagnostic and evaluation frameworks for AI readiness, ops audits, and system assessments | In progress |
 | [case-studies](https://github.com/srush3003/case-studies) | Documented real engagements with context, decisions, and outcomes | In progress |
 
 More content added as frameworks are extracted from active engagements.
