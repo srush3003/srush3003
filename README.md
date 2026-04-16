@@ -1,7 +1,6 @@
 # Srush (Srushti Pagrut)
 Operations Architect | AI Workflows | RevOps  
-
-Built entirely remote. 5 years coordinating across EU and US time zones from India. 
+Built entirely remote. 5 years coordinating across EU and US time zones from India, embedded inside a 30-person agency. Async by design, not by circumstance.
 
 ---
 
@@ -21,7 +20,7 @@ A working portfolio for operators and technical teams. Each repo documents real 
 
 | Repo | What it is | Status |
 |------|------------|--------|
-| ops-templates | Reusable templates for integration management, SOPs, workflow design, and client onboarding | In progress |
+| [ops-templates](https://github.com/srush3003/ops-templates) | Reusable templates for integration management, SOPs, workflow design, and client onboarding | In progress |
 | ops-playbooks | Step-by-step guides for AI workflow implementation, tool migrations, and process rollouts | In progress |
 | ops-frameworks | Diagnostic and evaluation frameworks for AI readiness, ops audits, and system assessments | In progress |
 | case-studies | Documented real engagements with context, decisions, and outcomes | In progress |
