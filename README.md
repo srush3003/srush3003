@@ -42,6 +42,6 @@ More content added as frameworks are extracted from active engagements.
 
 ## Connect
 
-LinkedIn: linkedin.com/in/srushti-pagrut
-Portfolio: srushtip.notion.site/portfolio
+LinkedIn: <a href="https://linkedin.com/in/srushti-pagrut" target="_blank">linkedin.com/in/srushti-pagrut</a>  
+Portfolio: <a href="https://srushtip.notion.site/portfolio" target="_blank">srushtip.notion.site/portfolio</a>  
 Email: srushtip1111@gmail.com
