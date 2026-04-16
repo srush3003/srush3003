@@ -1,5 +1,6 @@
 # Srush (Srushti Pagrut)
 Operations Architect | AI Workflows | RevOps  
+
 Built entirely remote. 5 years coordinating across EU and US time zones from India, embedded inside a 30-person agency. Async by design, not by circumstance.
 
 ---
